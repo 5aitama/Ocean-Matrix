@@ -1,3 +1,2 @@
 # Ocean Matrix
-![Screenshot]
-(./res/sc.png)
+![Screenshot](./res/sc.png)
